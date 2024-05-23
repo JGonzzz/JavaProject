@@ -1,5 +1,5 @@
 package PaqueteJuego.src;
 
-public s {
+public class GraphicsManager {
     
 }

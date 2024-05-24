@@ -5,8 +5,8 @@
             "type": "java",
             "name": "JavaFX App",
             "request": "launch",
-            "mainClass": "com.example.Main",
-            "vmArgs": "--module-path /path/to/javafx-sdk-11/lib --add-modules javafx.controls,javafx.fxml"
+            "mainClass": "Game",
+            "vmArgs": ""
         }
     ]
 }

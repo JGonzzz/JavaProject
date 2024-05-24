@@ -1,8 +1,6 @@
 package PaqueteJuego.src;
-import java.util.Scanner;
 
 public class AdivinanzaPuzzle {
-    Scanner datos = new Scanner;
+// no te petes mi amor
 
-    
 }

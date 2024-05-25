@@ -4,7 +4,7 @@ public class Game {
     private List<Room> rooms;
 
     public Game() {
-        player = new Player("Jugadorq");
+        player = new Player("Jugador");
         rooms = new ArrayList<>();
     }
 
